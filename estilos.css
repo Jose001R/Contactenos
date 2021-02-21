@@ -68,17 +68,6 @@ form{
 }
 
 
-.enviar{
-	padding:30px; 
-	color:#fff; 
-	background: #000;  
-	position: absolute; 
-	left: 15%; top: 50%; 
-	text-align: center; 
-	border: dashed;
-}
-.enviar:active{
-	color: purple;
-}
+
 
 
